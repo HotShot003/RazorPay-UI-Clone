@@ -52,6 +52,9 @@ Tailwind allows for fast and efficient styling directly within the HTML, enablin
 ### This project is primarily designed to help me learn and experiment with:
 
 - Tailwind CSS for utility-based styling.
+
 - Building responsive designs without writing custom CSS.
+
 - Creating reusable UI components.
+
 - Dynamic DOM manipulation with JavaScript.

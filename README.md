@@ -48,7 +48,6 @@ Tailwind allows for fast and efficient styling directly within the HTML, enablin
 - Utility-first: No need to leave HTML to style elements.
 
 ## Learning Objectives
-
 ### This project is primarily designed to help me learn and experiment with:
 
 - Tailwind CSS for utility-based styling.

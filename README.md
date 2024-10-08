@@ -35,7 +35,6 @@ In this project, I aim to build responsive and visually appealing components usi
 
 This project heavily utilizes Tailwind CSS, a utility-first CSS framework that provides low-level utility classes to build custom designs without leaving your HTML.
 
-
 Tailwind allows for fast and efficient styling directly within the HTML, enabling a modular approach to design.
 
 ## Why Tailwind CSS?

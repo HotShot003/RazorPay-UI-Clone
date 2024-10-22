@@ -30,7 +30,7 @@ function createNavbar() {
                 </div>
             </div>
         </nav>
-    `;
+    // `;
 }
 
 // Call the function to create the navbar

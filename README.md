@@ -11,11 +11,8 @@ In this project, I aim to build responsive and visually appealing components usi
 ## Features
 
 - Fully responsive navbar with gradient background.
-  
 - Dynamic JavaScript integration for UI components.
-  
 - Tailwind CSS for rapid styling and layout.
-  
 - Basic structure and design of Razorpay's front-end interface.
 
 ## Technologies Used
